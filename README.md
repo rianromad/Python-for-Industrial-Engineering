@@ -12,4 +12,4 @@ Berikut adalah referensi yang bisa digunakan untuk belajar **supply chain data s
 
 
 
-image.{align='center'}
+
