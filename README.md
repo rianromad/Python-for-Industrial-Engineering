@@ -12,5 +12,4 @@ Berikut adalah referensi yang bisa digunakan:
 4. DataCamp - Supply Chain Analytics in Python
 
 
-
-
+**NB: Apabila mengalami kendala file tidak bisa dibuka, copy paste link file ipynb ke https://nbviewer.jupyter.org**
