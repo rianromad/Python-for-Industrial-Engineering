@@ -9,7 +9,8 @@ Berikut adalah referensi yang bisa digunakan:
 1. Sarker and Newton - Optimization Modelling, A Practical Approach
 2. Udemy - Supply Chain Design and Planning with Excel & Python. Haytham Omar, Consultant-Supply chain
 3. Udemy - RA: Data Science and Supply Chain analytics. A-Z with Python. Haytham Omar, Consultant-Supply chain
-4. DataCamp - Supply Chain Analytics in Python
+4. Operations Management Sustainability and Supply Chain Management (12th Edition) by Jay Heizer, Barry Render, Chuck Munson 
+5. DataCamp - Supply Chain Analytics in Python
 
 
 **NB: Apabila mengalami kendala file tidak bisa dibuka, copy paste link file ipynb ke https://nbviewer.jupyter.org**
