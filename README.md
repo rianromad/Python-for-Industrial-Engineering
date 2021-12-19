@@ -2,8 +2,7 @@
 
 <img align="middle" src="https://user-images.githubusercontent.com/61647791/128857429-6fbef833-cc80-4357-a04f-1e0b2ea70b8e.png" />
 
-
-<p> Dengan banyaknya data yang dihasilkan setiap detik pada perusahaan atau instansi, skill analisis data dan ilmu data semakin banyak dibutuhkan. Hal inilah yang mendorong saya untuk mempelajari skill tersebut. Dengan domain knowledge berupa ilmu Teknik Industri saya mencoba memanfaatkan skill tersebut untuk menyelesaikan permasalahan di Industri seperti penjadwalan produksi, peramalan permintaan, optimasi rantai pasok, dan lain-lain. Repository ini berisi pengantar optimasi menggunakan bahasa pemrograman python beserta beragam project. Diharapkan repository ini bisa bermanfaat bagi para pembaca. Sumber materi di ambil dari materi kuliah ataupun course yang saya ambil. </p>
+<p> Halo perkenalkan saya Rian, seorang mahasiswa Teknik Industri pada sebuah universitas di Indonesia. Saya menyukai bahasa pemrograman Python dan tertarik untuk mengombinasikannya dengan bidang keilmuan Teknik Industri. Teknik Industri merupakan sebuah ilmu yang berkaitan dengan bagaimana suatu produk atau jasa dapat dibuat, mulai dari perencanaan hingga sampai ke konsumen. Bidang ini mempelajari banyak hal, mulai dari sistem produksi, rantai pasok dan logistik, analisis ekonomi, pembuatan keputusan, dan lain-lain. Diharapkan repository ini bisa memotivasi pembaca dari kalangan Teknik Industri maupun bidang terkait. Jika saya menemukan beberapa materi yang menarik dan bisa di-python-kan, saya akan memasukkannya ke dalam repository ini.</p>
 
 Berikut adalah referensi yang bisa digunakan:
 1. Sarker and Newton - Optimization Modelling, A Practical Approach
